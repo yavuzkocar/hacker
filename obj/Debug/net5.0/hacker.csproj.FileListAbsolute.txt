@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\hacker\bin\Debug\net5.0\hacker.exe
+D:\yazılım\pratikler\hacker\bin\Debug\net5.0\hacker.deps.json
+D:\yazılım\pratikler\hacker\bin\Debug\net5.0\hacker.runtimeconfig.json
+D:\yazılım\pratikler\hacker\bin\Debug\net5.0\hacker.runtimeconfig.dev.json
+D:\yazılım\pratikler\hacker\bin\Debug\net5.0\hacker.dll
+D:\yazılım\pratikler\hacker\bin\Debug\net5.0\ref\hacker.dll
+D:\yazılım\pratikler\hacker\bin\Debug\net5.0\hacker.pdb
+D:\yazılım\pratikler\hacker\obj\Debug\net5.0\hacker.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\hacker\obj\Debug\net5.0\hacker.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\hacker\obj\Debug\net5.0\hacker.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\hacker\obj\Debug\net5.0\hacker.AssemblyInfo.cs
+D:\yazılım\pratikler\hacker\obj\Debug\net5.0\hacker.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\hacker\obj\Debug\net5.0\hacker.dll
+D:\yazılım\pratikler\hacker\obj\Debug\net5.0\ref\hacker.dll
+D:\yazılım\pratikler\hacker\obj\Debug\net5.0\hacker.pdb
+D:\yazılım\pratikler\hacker\obj\Debug\net5.0\hacker.genruntimeconfig.cache
